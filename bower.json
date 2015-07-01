@@ -1,6 +1,6 @@
 {
   "name": "outdated-test",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An empty package to test outdated",
   "repository" : {
     "type" : "git",
